@@ -1,0 +1,15 @@
+C:\Users\Rob\OneDrive\Personal\Connect-4\bin\Debug\net6.0\Connect-4.exe
+C:\Users\Rob\OneDrive\Personal\Connect-4\bin\Debug\net6.0\Connect-4.deps.json
+C:\Users\Rob\OneDrive\Personal\Connect-4\bin\Debug\net6.0\Connect-4.runtimeconfig.json
+C:\Users\Rob\OneDrive\Personal\Connect-4\bin\Debug\net6.0\Connect-4.dll
+C:\Users\Rob\OneDrive\Personal\Connect-4\bin\Debug\net6.0\ref\Connect-4.dll
+C:\Users\Rob\OneDrive\Personal\Connect-4\bin\Debug\net6.0\Connect-4.pdb
+C:\Users\Rob\OneDrive\Personal\Connect-4\obj\Debug\net6.0\Connect-4.csproj.AssemblyReference.cache
+C:\Users\Rob\OneDrive\Personal\Connect-4\obj\Debug\net6.0\Connect-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rob\OneDrive\Personal\Connect-4\obj\Debug\net6.0\Connect-4.AssemblyInfoInputs.cache
+C:\Users\Rob\OneDrive\Personal\Connect-4\obj\Debug\net6.0\Connect-4.AssemblyInfo.cs
+C:\Users\Rob\OneDrive\Personal\Connect-4\obj\Debug\net6.0\Connect-4.csproj.CoreCompileInputs.cache
+C:\Users\Rob\OneDrive\Personal\Connect-4\obj\Debug\net6.0\Connect-4.dll
+C:\Users\Rob\OneDrive\Personal\Connect-4\obj\Debug\net6.0\ref\Connect-4.dll
+C:\Users\Rob\OneDrive\Personal\Connect-4\obj\Debug\net6.0\Connect-4.pdb
+C:\Users\Rob\OneDrive\Personal\Connect-4\obj\Debug\net6.0\Connect-4.genruntimeconfig.cache
